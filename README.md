@@ -1,1 +1,2 @@
 # Unit-4-Assignment-4-Unit-programming-challenges
+You are to choose two of the challenges to complete from the programming challenges in your text.  One must be from Programming Challenges from chapter 4 and another must be from Programming Challenges from chapter 5. 
